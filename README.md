@@ -5,3 +5,4 @@ Para la implementación usaré [wxMaxima](https://github.com/andrejv/wxmaxima)
 A continuación se listan los algoritmos implementados en cada fichero:  
 # Implementaciones/ecuaciones_y_sistemas_no_lineales.wxmx
 - Algoritmo de bisección.
+- Algoritmo regula falsi. 

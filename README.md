@@ -8,3 +8,4 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Algoritmo de bisección.
 - Algoritmo regula falsi.
 - Algoritmo del método de la secante.
+- Algoritmo de Newton Raphson.

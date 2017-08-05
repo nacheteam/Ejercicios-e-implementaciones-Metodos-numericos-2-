@@ -9,3 +9,4 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Algoritmo regula falsi.
 - Algoritmo del método de la secante.
 - Algoritmo de Newton Raphson.
+- Algoritmo de Sturm (para hallar sucesiones de Sturm).

@@ -12,3 +12,4 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Algoritmo de Sturm (para hallar sucesiones de Sturm).
 - Algoritmo de Horner (NO FUNCIONA).
 - Algoritmo de Newton Raphson con Horner (NO FUNCIONA).
+- Método de Newton para sistemas de ecuaciones.

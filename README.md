@@ -4,6 +4,7 @@ Las implementaciones se harán con Maxima por necesidades de la asignatura. Se i
 Para la implementación usaré [wxMaxima](https://github.com/andrejv/wxmaxima)  
 Se requiere que se habilite la opción mostrar expresiones largas de wxMaxima.
 A continuación se listan los algoritmos implementados en cada fichero:  
+
 # Implementaciones/ecuaciones_y_sistemas_no_lineales.wxmx
 - Algoritmo de bisección.
 - Algoritmo regula falsi.

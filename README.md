@@ -11,6 +11,6 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Algoritmo del método de la secante.
 - Algoritmo de Newton Raphson.
 - Algoritmo de Sturm (para hallar sucesiones de Sturm).
-- Algoritmo de Horner.
-- Algoritmo de Newton Raphson con Horner.
-- Método de Newton para sistemas de ecuaciones.
+- Algoritmo de Horner (Issue #1).
+- Algoritmo de Newton Raphson con Horner (Issue #2).
+- Método de Newton para sistemas de ecuaciones (Issue #3).

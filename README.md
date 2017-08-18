@@ -14,3 +14,10 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Algoritmo de Horner (Issue [#1](https://github.com/nacheteam/Ejercicios-e-implementaciones-Metodos-numericos-2-/issues/1)).
 - Algoritmo de Newton Raphson con Horner (Issue [#2](https://github.com/nacheteam/Ejercicios-e-implementaciones-Metodos-numericos-2-/issues/2)).
 - Método de Newton para sistemas de ecuaciones (Issue [#3](https://github.com/nacheteam/Ejercicios-e-implementaciones-Metodos-numericos-2-/issues/3)).
+
+#Ejercicios/relacion1.wxmx  
+- Ejercicio 1.
+- Ejercicio 2.
+- Ejercicio 3.
+- Ejercicio 4.
+- Ejercicio 5.

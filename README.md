@@ -23,3 +23,8 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Ejercicio 5.
 - Ejercicio 10.
 - Ejercicio 11.
+- Ejercicio 12.
+- Ejercicio 16.
+- Ejercicio 18.
+- Ejercicio 19.
+- Ejercicio 20.

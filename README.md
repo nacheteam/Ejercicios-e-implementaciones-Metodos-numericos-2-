@@ -30,3 +30,6 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Ejercicio 20.
 
 # Implementaciones/derivacion_e_integracion_numerica.wxmx
+
+
+# Ejercicios/relacion2.wxmx

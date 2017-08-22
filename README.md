@@ -31,5 +31,6 @@ A continuación se listan los algoritmos implementados en cada fichero:
 
 # Implementaciones/derivacion_e_integracion_numerica.wxmx
 - Fórmula de 3 puntos final, puntos equidistantes.
+- Fórmula de 3 puntos central, puntos equidistantes.
 
 # Ejercicios/relacion2.wxmx

@@ -35,3 +35,5 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Fórmula de 3 puntos inicial, puntos equidistantes.
 
 # Ejercicios/relacion2.wxmx
+- Ejercicio 3.
+- Ejercicio 4.

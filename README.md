@@ -30,6 +30,6 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Ejercicio 20.
 
 # Implementaciones/derivacion_e_integracion_numerica.wxmx
-
+- Fórmula de 3 puntos final, puntos equidistantes.
 
 # Ejercicios/relacion2.wxmx

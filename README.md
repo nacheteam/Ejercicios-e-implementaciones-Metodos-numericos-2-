@@ -38,3 +38,4 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Ejercicio 3.
 - Ejercicio 4.
 - Ejercicio 6.
+- Ejercicio 7.

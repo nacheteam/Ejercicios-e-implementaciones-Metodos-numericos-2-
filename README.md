@@ -37,3 +37,4 @@ A continuación se listan los algoritmos implementados en cada fichero:
 # Ejercicios/relacion2.wxmx
 - Ejercicio 3.
 - Ejercicio 4.
+- Ejercicio 6.

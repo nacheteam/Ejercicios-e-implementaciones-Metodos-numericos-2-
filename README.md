@@ -33,6 +33,8 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Fórmula de 3 puntos final, puntos equidistantes.
 - Fórmula de 3 puntos central, puntos equidistantes.
 - Fórmula de 3 puntos inicial, puntos equidistantes.
+- Fórmula de Newton-Cotes abierta de un punto.
+- Fórmula de Newton-Cotes abierta de dos puntos.
 
 # Ejercicios/relacion2.wxmx
 - Ejercicio 3.

@@ -37,6 +37,9 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Fórmula de Newton-Cotes abierta de dos puntos.
 - Fórmula de Newton-Cotes cerrada de un punto.
 - Fórmula de Newton-Cotes cerrada de dos puntos.
+- Fórmula de Romberg para k arbitrario y j=0.
+- Fórmula de Romberg para k y j arbitrarios.
+- Aproximaciones de Romberg.
 
 # Ejercicios/relacion2.wxmx
 - Ejercicio 3.

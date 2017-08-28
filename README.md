@@ -40,6 +40,7 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Fórmula de Romberg para k arbitrario y j=0.
 - Fórmula de Romberg para k y j arbitrarios.
 - Aproximaciones de Romberg.
+- Polinomios de legendre.
 
 # Ejercicios/relacion2.wxmx
 - Ejercicio 3.

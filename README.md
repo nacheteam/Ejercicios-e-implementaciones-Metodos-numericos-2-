@@ -41,6 +41,7 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Fórmula de Romberg para k y j arbitrarios.
 - Aproximaciones de Romberg.
 - Polinomios de legendre.
+- Fórmula de cuadratura gaussiana.
 
 # Ejercicios/relacion2.wxmx
 - Ejercicio 3.

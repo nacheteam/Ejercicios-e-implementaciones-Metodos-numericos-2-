@@ -49,3 +49,4 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Ejercicio 13.
 - Ejercicio 15.
 - Ejercicio 16.
+- Ejercicio 20.

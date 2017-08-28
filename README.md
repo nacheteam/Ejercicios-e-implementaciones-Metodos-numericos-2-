@@ -51,3 +51,5 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Ejercicio 15.
 - Ejercicio 16.
 - Ejercicio 20.
+- Ejercicio 21.
+- Ejercicio 22.

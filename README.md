@@ -32,6 +32,9 @@ A continuación se listan los algoritmos implementados en cada fichero:
 # Implementaciones/pvi.wxmx
 - Métodode Taylor de orden r.
 - Método Euler.
+- Método de Euler mejorado.
+- Método del punto medio usando el método de Euler.
+- Método del punto medio usando el método de Euler mejorado.
 
 # Ejercicios/relacion1.wxmx  
 - Ejercicio 1.

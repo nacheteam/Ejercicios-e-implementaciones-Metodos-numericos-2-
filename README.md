@@ -29,6 +29,10 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Polinomios de legendre.
 - Fórmula de cuadratura gaussiana.
 
+# Implementaciones/pvi.wxmx
+- Métodode Taylor de orden r.
+- Método Euler.
+
 # Ejercicios/relacion1.wxmx  
 - Ejercicio 1.
 - Ejercicio 2.

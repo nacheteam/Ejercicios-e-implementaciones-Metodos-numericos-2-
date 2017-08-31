@@ -35,6 +35,10 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Método de Euler mejorado.
 - Método del punto medio usando el método de Euler.
 - Método del punto medio usando el método de Euler mejorado.
+- Método del punto medio.
+- Método de Crank-Nicholson.
+- Método de Heun.
+- Método de Runge-Kutta de orden 4.
 
 # Ejercicios/relacion1.wxmx  
 - Ejercicio 1.
@@ -66,3 +70,5 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Ejercicio 1.
 - Ejercicio 2.
 - Ejercicio 3.
+- Ejercicio 4.
+- Ejercicio 9.

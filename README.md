@@ -72,3 +72,5 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Ejercicio 3.
 - Ejercicio 4.
 - Ejercicio 9.
+- Ejercicio 12.
+- Ejercicio 13.

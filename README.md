@@ -39,6 +39,8 @@ A continuación se listan los algoritmos implementados en cada fichero:
 - Método de Crank-Nicholson.
 - Método de Heun.
 - Método de Runge-Kutta de orden 4.
+- Método de Adams-Bashforth de orden 4.
+- Método de Adams-Moulton de orden 4.
 
 # Ejercicios/relacion1.wxmx  
 - Ejercicio 1.
